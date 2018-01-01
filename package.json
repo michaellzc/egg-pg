@@ -1,6 +1,6 @@
 {
-  "name": "egg-pg",
-  "version": "1.0.0",
+  "name": "@apset-npm/egg-pg",
+  "version": "1.0.1",
   "description": "PostgreSQL plugin for egg",
   "eggPlugin": {
     "name": "pg"
@@ -41,10 +41,14 @@
   "files": [
     "app.js",
     "agent.js",
-    "config"
+    "config",
+    "lib"
   ],
   "ci": {
     "version": "8, 9"
+  },
+  "publishConfig":{
+    "registry":"https://na.artifactory.swg-devops.com/artifactory/api/npm/apset-npm/"
   },
   "repository": {
     "type": "git",
