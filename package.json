@@ -40,14 +40,13 @@
   },
   "files": [
     "app.js",
-    "agent.js",
     "config",
     "lib"
   ],
   "ci": {
     "version": "8, 9"
   },
-  "publishConfig":{
+  "publishConfig": {
     "registry":"https://na.artifactory.swg-devops.com/artifactory/api/npm/apset-npm/"
   },
   "repository": {
