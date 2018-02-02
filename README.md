@@ -1,5 +1,5 @@
 # egg-pg
-PostgreSQL Plugin for egg.
+PostgreSQL plugin which supports pooling for egg.
 
 This plugin exposes the [Pool](https://node-postgres.com/api/pool) object from [node-postgres](https://node-postgres.com) to `app.pg`.
 

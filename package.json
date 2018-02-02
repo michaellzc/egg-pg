@@ -1,7 +1,7 @@
 {
-  "name": "@apset-npm/egg-pg",
-  "version": "1.0.1",
-  "description": "PostgreSQL plugin for egg",
+  "name": "@exiasr/egg-pg",
+  "version": "1.0.2",
+  "description": "PostgreSQL plugin which supports pooling for egg",
   "eggPlugin": {
     "name": "pg"
   },
@@ -46,12 +46,9 @@
   "ci": {
     "version": "8, 9"
   },
-  "publishConfig": {
-    "registry":"https://na.artifactory.swg-devops.com/artifactory/api/npm/apset-npm/"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.ibm.com/Michael-Lin1/egg-pg.git"
+    "url": "git+https://github.com/ExiaSR/egg-pg.git"
   },
   "author": "Michael Lin <linzichunzf@hotmail.com>",
   "license": "MIT"
