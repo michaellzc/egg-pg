@@ -4,6 +4,7 @@ module.exports = {
   write: true,
   prefix: '^',
   plugin: 'autod-egg',
+  registry: "https://registry.npmjs.org",
   test: [
     'test',
     'benchmark',
