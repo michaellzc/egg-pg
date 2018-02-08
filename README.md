@@ -1,7 +1,12 @@
 # egg-pg
+
+[![dependencies Status](https://david-dm.org/ExiaSR/egg-pg/status.svg?style=flat-square)](https://david-dm.org/ExiaSR/egg-pg)
+
 PostgreSQL plugin which supports pooling for egg.
 
-This plugin exposes the [Pool](https://node-postgres.com/api/pool) object from [node-postgres](https://node-postgres.com) to `app.pg`.
+This plugin exposes the [Pool](https://node-postgres.com/api/pool) object from [node-postgres](https://node-postgres.com) at `app.pg`.
+
+Latest version of [node-postgres](https://node-postgres.com): **7.4.1**
 
 ## Install
 `npm i @exiasr/egg-pg`
