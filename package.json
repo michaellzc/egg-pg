@@ -1,6 +1,6 @@
 {
   "name": "@exiasr/egg-pg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "PostgreSQL plugin which supports pooling for egg",
   "eggPlugin": {
     "name": "pg"
@@ -40,6 +40,7 @@
   },
   "files": [
     "app.js",
+    "agent.js",
     "config",
     "lib"
   ],
