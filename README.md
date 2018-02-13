@@ -13,18 +13,17 @@ Latest version of [node-postgres](https://node-postgres.com): **7.4.1**
 
 `yarn add @exiasr/egg-pg`
 
-## Usage
-
+## Configuration
+### Enable plugin
 ```js
 // {app_root}/config/plugin.js
 exports.pg = {
   enable: true,
-  package: 'egg-pg',
+  package: '@exiasr/egg-pg',
 };
 ```
-
-## Configuration
 ### Sample
+
 ```js
 // {app_root}/config/config.default.js
 exports.pg = {
