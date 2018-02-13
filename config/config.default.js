@@ -15,6 +15,7 @@ exports.pg = {
     port: process.env.PGPORT,
   },
   app: true,
+  agent: false,
 
   // Single Database
   // client: {
