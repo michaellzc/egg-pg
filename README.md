@@ -1,6 +1,6 @@
 # egg-pg
 
-[![dependencies Status](https://david-dm.org/ExiaSR/egg-pg/status.svg?style=flat-square)](https://david-dm.org/ExiaSR/egg-pg)
+[![dependencies Status](https://david-dm.org/ExiaSR/egg-pg/status.svg?style=flat-square)](https://david-dm.org/ExiaSR/egg-pg) [![Greenkeeper badge](https://badges.greenkeeper.io/ExiaSR/egg-pg.svg)](https://greenkeeper.io/)
 
 PostgreSQL plugin which supports pooling for egg.
 
