@@ -6,7 +6,7 @@ PostgreSQL plugin which supports pooling for egg.
 
 This plugin exposes the [Pool](https://node-postgres.com/api/pool) object from [node-postgres](https://node-postgres.com) at `app.pg`.
 
-Latest version of [node-postgres](https://node-postgres.com): **7.7.1**
+Latest version of [node-postgres](https://node-postgres.com): **7.10.0**
 
 ## Install
 `npm i @exiasr/egg-pg`
